@@ -1,2 +1,2 @@
 #!/bin/bash
-cat list | grep "C$\|C++\|Go" | sort
+grep "C$\|C++\|Go" | sort
