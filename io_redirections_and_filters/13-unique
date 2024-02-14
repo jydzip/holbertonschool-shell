@@ -1,2 +1,2 @@
 #!/bin/bash
-grep "C$\|C++\|Go" | uniq | sort
+sort | uniq -u
