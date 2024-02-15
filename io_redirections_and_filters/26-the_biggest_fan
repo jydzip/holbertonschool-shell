@@ -1,0 +1,2 @@
+#!/bin/bash
+sort -r -k2 | head -n 12 | tail -n 11 | cut -f1
